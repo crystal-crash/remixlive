@@ -51,7 +51,7 @@ need enough screen space to display 1920x1080p window, with room for titlebar. t
 
 npm start -- window --window.width=1024 --window.height=768
 
-if the streams drop to black while running the app, refresh them from the control panel by clicking the bottom-right button in the stream box
+if the streams drop to black while running the app, refresh them from the control panel by clicking the bottom-left button in the stream box
 
 if a stream gets stuck on a commercial, try to remove the url from the list, then put it back and re-assign the stream to that box
 
