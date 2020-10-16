@@ -61,34 +61,3 @@ streamwall.io
 svg icons from Font Awesome by Dave Gandy - http://fontawesome.io
 
 note: somewhat resource-intensive, especially for large numbers of streams. u'v been warned =)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
