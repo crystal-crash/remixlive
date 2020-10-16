@@ -1,0 +1,11 @@
+[[streams]]
+city   = "Varied"
+label  = "arrr"
+link   = "https://"
+notes  = "live remix"
+source = "domain.net"
+
+[[streams]]
+kind  = "web"
+label = "none"
+link  = "web"
