@@ -45,7 +45,7 @@ alt+shit+c deactivate censor mode
 if the hotkeys don't work, just click the button instead ig
 
 troubleshooting:
-if it fux up, just delete the dir, clear your npm cache, and try again
+if it messes up, just delete the dir, clear your npm cache, and try again
 
 need enough screen space to display 1920x1080p window, with room for titlebar. to config for a smaller window, edit your config file or like so:
 
